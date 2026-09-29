@@ -1,6 +1,8 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:14B8A6&height=250&section=header&text=Dipak%20Gond&5&fontColor=ffffff
-</p><h1 align="center">Hi 👋, I'm Dipak Gond</h1>
+                                                                                                                        https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dipak%20Gond&fontSize=60&animation=fadeIn&fontColor=ffffff
 
+# Hi 👋, I'm Dipak Gond
+
+### Application Specialist | Cloud Operations Engineer | DevOps Engineer     
 <h3 align="center">
 Application Specialist | Cloud Operations Engineer | DevOps Engineer
 </h3>
