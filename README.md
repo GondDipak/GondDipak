@@ -10,8 +10,3 @@
 <a href="https://github.com/GondDipak?tab=followers"><img src="https://img.shields.io/github/followers/GondDipak?label=FOLLOWERS&style=for-the-badge&color=00C9A7" alt="Followers"/></a>
 <a href="https://github.com/GondDipak/GondDipak/actions"><img src="https://img.shields.io/github/actions/workflow/status/GondDipak/GondDipak/snake.yml?label=SNAKE%20PIPELINE&style=for-the-badge" alt="Snake workflow status"/></a>
 
-</div>
-
-<div align="center">
-<img src="./assets/futuristic-command-center.svg" width="100%" alt="Futuristic engineering command center"/>
-</div>
