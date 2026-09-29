@@ -1,5 +1,4 @@
-<p align="center">
-https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:14B8A6&height=250&section=header&text=Dipak%20Gond&fontSize=55&fontColor=ffffff
+![header](https://capsule-render.vercel.app/api?type=waving&82F6,100:14B8A6&height=250&section=header&text=Dipak%20Gond&fontSize=55&fontColor=ffffff
 </p><h1 align="center">Hi 👋, I'm Dipak Gond</h1>
 
 <h3 align="center">
