@@ -1,16 +1,90 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dipak Gond</h1>
 
-<!--
-**GondDipak/GondDipak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Application Specialist | Cloud Operations Engineer | DevOps Engineer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Cloud+Operations+Engineer;Kubernetes+Administrator;Terraform+Automation;AWS+Cloud+Professional;DevOps+Engineer;Python+Automation+Developer
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💼 Application Specialist
+- ☁️ AWS Cloud Operations
+- ⚙️ Terraform & Infrastructure Automation
+- ☸️ Kubernetes Administration
+- 🐳 Docker & Containerization
+- 🔄 CI/CD Pipelines
+- 🐍 Python Automation
+- 🔧 WebLogic Administration
+- 📈 Production Support & Monitoring
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,python,linux,git,github,ansible,vscode
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+https://github-readme-stats.vercel.app/api?username=GondDipak&show_icons=true&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=GondDipak&layout=compact&theme=tokyonight
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+https://github-readme-streak-stats.herokuapp.com/?user=GondDipak&theme=tokyonight
+
+</p>
+
+---
+
+## 🏆 Expertise
+
+✅ Kubernetes
+
+✅ Terraform
+
+✅ Docker
+
+✅ AWS
+
+✅ Python
+
+✅ Linux
+
+✅ WebLogic
+
+✅ CI/CD
+
+✅ DevOps Automation
+
+✅ Production Support
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- Email: YOUR_EMAIL
+
+---
+
+### 💡 Quote
+
+"Automating Infrastructure, Solving Problems, and Building Reliable Platforms."
