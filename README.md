@@ -1,12 +1,17 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dipak%20Gond&fontSize=60&animation=fadeIn&fontColor=ffffff)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=3000&pause=1000&width=435&lines=Automating+the+Cloud+%7C+AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform+%7C+Helm)](https://git.io/typing-svg)
 <div align="center">
-  <img src="https://shields.io" alt="Profile Views" />
-  <img src="https://shields.io" alt="Followers" />
-  <img src="https://shields.io" alt="Snake Pipeline" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,45:0077B5,100:00C9A7&height=230&section=header&text=Sandeep%20Komal%20Pothu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Cloud%20Operations%20Engineer%20%7C%20DevOps%20%7C%20SRE%20%7C%20DevSecOps&descAlignY=60&descSize=18" width="100%" alt="Sandeep Komal header"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&multiline=true&width=850&height=120&lines=Automating+the+Cloud%2C+One+Pipeline+at+a+Time;AWS+%7C+Kubernetes+%7C+Terraform+%7C+DevSecOps;Building+Resilient%2C+Scalable+Infrastructure;Always+Shipping.+Always+Learning." alt="Typing SVG"/></a>
+
+<br/>
+
+<a href="https://github.com/GondDipak"><img src="https://komarev.com/ghpvc/?username=GondDipak&label=PROFILE%20VIEWS&color=0077B5&style=for-the-badge" alt="Profile views"/></a>
+<a href="https://github.com/GondDipak?tab=followers"><img src="https://img.shields.io/github/followers/GondDipak?label=FOLLOWERS&style=for-the-badge&color=00C9A7" alt="Followers"/></a>
+<a href="https://github.com/GondDipak/GondDipak/actions"><img src="https://img.shields.io/github/actions/workflow/status/GondDipak/GondDipak/snake.yml?label=SNAKE%20PIPELINE&style=for-the-badge" alt="Snake workflow status"/></a>
+
 </div>
 
-
-Cloud Operations Engineer | DevOps Engineer | SRE
-
-
+<div align="center">
+<img src="./assets/futuristic-command-center.svg" width="100%" alt="Futuristic engineering command center"/>
+</div>
